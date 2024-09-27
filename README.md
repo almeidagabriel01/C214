@@ -17,4 +17,4 @@ A aplicação permite:
 - `NoteRepository.java` - Interface que define as operações do repositório de notas.
 - `NoteRepositoryMemory.java` - Implementação em memória do repositório.
 - `NoteService.java` - Serviço que utiliza o repositório de notas (injeção de dependência por construtor).
-- `Main.java` - Classe principal para executar a aplicação.
+- `NoteServiceTest` - Classe de testes para o serviço de notas usando o JUnit.
